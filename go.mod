@@ -1,6 +1,6 @@
 module github.com/varungandhi-src/underpanic
 
-go 1.22.4
+go 1.23.0
 
 require golang.org/x/tools v0.24.0
 
